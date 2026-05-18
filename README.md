@@ -23,9 +23,10 @@ This GitHub profile is my "living portfolio" and a testament to my commitment to
 - **Operations Analysis:** Business Process Mapping, Workflow Automation, Strategic Resource Allocation.
 
 ### 🤖 AI-Driven Capabilities (Continuous Update)
-- **Prompt Engineering:** Structuring advanced workflows via **Google AI Studio** for content generation, research automation, and data filtering.
-- **Workflow & Product Innovation:** Training AI models for intelligent customer service, automated appointment scheduling, and custom business tools.
-- **Modern Tools:** Git/GitHub Ecosystem, Microsoft Office 2024, Stata (Quantitative Regression Analysis), TurboScribe.
+- **AI-Powered Development & Lifecycle Management:** Proficient in leveraging **Claude** and **Gemini 3.1 Pro** for full-stack application development, real-world debugging, code refactoring, and post-release product iteration based on user feedback.
+- **Advanced Prompt Engineering:** Structuring advanced workflows via **Google AI Studio** and **Claude** for in-depth market research, data filtering, and high-impact international marketing content.
+- **Workflow & Product Innovation:** Training and leveraging LLMs to design intelligent customer service chatbots, automated appointment scheduling, and custom operational tools for SMEs.
+- **Modern Tech & Productivity Stack:** Git/GitHub Ecosystem, Microsoft Office 2024, Stata (Quantitative Regression Analysis), TurboScribe (AI Transcription).
 
 ---
 
