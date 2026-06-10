@@ -32,7 +32,7 @@ This GitHub profile is my "living portfolio" and a testament to my commitment to
 
 ## 📈 Featured Project Spotlight
 
-### 💡 [ProTrack (正易科技 - Zheng-Yi-Tech)](https://michelle-tw.github.io/Zheng-Yi-Tech/)
+### 💡 [ProTrack (正易科技 - Zheng-Yi-Tech)](https://zheng-yi-tech.vercel.app)
 *An AI-powered Work Timetable & Project Management Solution designed to streamline operations and enhance productivity for modern organizations.*
 
 #### 🏢 The Real-World Business Challenge
