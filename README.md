@@ -47,7 +47,6 @@ Acting as the bridge between business needs and technology, I leveraged AI to bu
 - **For Managers & Accountants:** An automated dashboard that visualizes project progress and structures clean, error-free data logs, making monthly payroll calculations effortless for accountants.
 - **AI Integration:** Powered by generative AI elements via **Google AI Studio** to provide smart scheduling insights and automated status summaries.
 
-👉 **[Experience the Live Web Demo Here](https://michelle-tw.github.io/Zheng-Yi-Tech/)**
 ---
 
 ## 🔥 Growth & Learning Journey
