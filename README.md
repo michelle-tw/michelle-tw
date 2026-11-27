@@ -28,19 +28,6 @@ This GitHub profile is my "living portfolio" and a testament to my commitment to
 - **Workflow & Product Innovation:** Training and leveraging LLMs to design intelligent customer service chatbots, automated appointment scheduling, and custom operational tools for SMEs.
 - **Modern Tech & Productivity Stack:** Git/GitHub Ecosystem, Microsoft Office 2024, Stata (Quantitative Regression Analysis), TurboScribe (AI Transcription).
 
----
-
-## 📈 Featured Project Spotlight
-
-### 💡 [ProTrack (正易科技 - Zheng-Yi-Tech)](https://zheng-yi-tech.vercel.app)
-*An AI-powered Work Timetable & Project Management Solution designed to streamline operations and enhance productivity for modern organizations.*
-
-#### 🏢 The Real-World Business Challenge
-I initiated and developed this project to solve a critical operational bottleneck for a real manufacturing/software distribution business. 
-- **The Legacy Issue:** The company was managing employee attendance and shift logs entirely via manual Excel sheets. 
-- **The Profit Leak:** Due to manual tracking, they could not measure the **actual working hours spent on each machine**. This made it nearly impossible for management to calculate the precise profit-per-machine and evaluate manufacturing efficiency.
-- **The Core Needs:** They urgently required a streamlined system for frontline workers to easily log hours, a central dashboard for managers to track live project progress, and an accurate data export system for the accounting team to process payroll without errors.
-
 #### 🛠️ My AI-Driven Solution
 Acting as the bridge between business needs and technology, I leveraged AI to build **ProTrack** *(Built with React, TypeScript, Vite, and Gemini API)*:
 - **For Employees:** A mobile-friendly, intuitive interface for seamless shift logging and time-tracking per task/machine.
